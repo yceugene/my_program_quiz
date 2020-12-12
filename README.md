@@ -2,7 +2,7 @@
 
 ### 第一周:
 * 測驗題目: https://hackmd.io/@sysprog/sysprog2020-quiz1
-* 實作題目: https://h ackmd.io/@sysprog/2020-lab0
+* 實作題目: https://hackmd.io/@sysprog/2020-lab0
 * 作業區: https://hackmd.io/@sysprog/2020-homework1
 * 我的作業: https://hackmd.io/@yceugene/2020q3-quiz1
 
